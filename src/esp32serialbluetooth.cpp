@@ -1,3 +1,6 @@
+/*
+Ejemplo muy básico de conexión Bluetooth entre ESP32 y app Serial Bluetooth Terminal.
+*/
 #include <Arduino.h>
 #include <BluetoothSerial.h>
 
